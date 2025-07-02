@@ -94,9 +94,30 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
     <p>Email : fillanyarts@gmail.com / baractivity13@gmail.com</p>
     <p>Téléphone : +1 (773) 668-6310</p>
     <p>  Site Web : (https://bit.ly/44vaeyP)</p>
+   </style>
+</head>
+<body>
 
+<header>
+  <h1>Media – Fillany Arts</h1>
+  <p>Explore our dance, music & community in motion.</p>
+</header>
+
+<div class="container">
+  <h2>  Photo Gallery</h2>
+  <div class="gallery">
+    <img src="images/photo1.jpg" alt="Dance workshop 1">
+    <img src="images/photo2.jpg" alt="Storytelling circle">
+    <img src="images/photo3.jpg" alt="Summer program kids dancing">
+    <img src="images/photo4.jpg" alt="Drum circle">
   </div>
 
+  <h2>  Video Highlights</h2>
+  <div class="videos">
+    <iframe src="https://www.youtube.com/embed/your_video_id1" title="Workshop Highlight" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/your_video_id2" title="Performance" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/your_video_id3" title="Behind the scenes" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
 
 </body>
@@ -117,7 +138,7 @@ Donations.
 Sponsorships.
 Volunteering.
 Equipment or venue support.
-Donate or Partnere</p>
+Donate or Partnere
 </header>
 
 
