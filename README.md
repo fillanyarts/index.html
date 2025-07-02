@@ -110,8 +110,6 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
 
       Inscription At (fillanyarts@gmail.com)
 
-</div>
-      
       Support Us (paypal.us/FillanyArts)
 
 <footer>
