@@ -109,8 +109,19 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
 </div>
 
       Inscription At (fillanyarts@gmail.com)
+      
+      Support Us: (paypal.us/FillanyArts)
+<header>
+  <h1>Help us grow this program and reach more youth!</h1>
 
-      Support Us (paypal.us/FillanyArts)
+You can support Fillany Arts through:
+Donations.
+Sponsorships.
+Volunteering.
+Equipment or venue support.
+Donate or Partnere</p>
+</header>
+
 
 <footer>
   &copy; 2024 Fillany Arts – All rights reserved
