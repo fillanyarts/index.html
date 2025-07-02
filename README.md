@@ -89,31 +89,6 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
       <strong>Lieu :</strong>  Mayfair Arts Center (Chicago, IL) <br />
       <strong>Public :</strong> 10 à 20 ans
 
-  </style>
-</head>
-<body>
-
-<header>
-  <h1>Media – Fillany Arts</h1>
-  <p>Explore our dance, music & community in motion.</p>
-</header>
-
-<div class="container">
-  <h2>  Photo Gallery</h2>
-  <div class="gallery">
-    <img src="images/photo1.jpg" alt="Dance workshop 1">
-    <img src="images/photo2.jpg" alt="Storytelling circle">
-    <img src="images/photo3.jpg" alt="Summer program kids dancing">
-    <img src="images/photo4.jpg" alt="Drum circle">
-  </div>
-
-  <h2>  Video Highlights</h2>
-  <div class="videos">
-    <[iframe src="https://www.youtube.com/embed/(https:/[/youtube.com/shorts/9k1Z3w8w0G]](https://www.youtube.com/shorts/9k1Z3w8w0Gk)(https://www.youtube.com/shorts/9k1Z3w8w0Gk)" title="Workshop Highlight" frameborder="0" allowfullscreen></iframe>
-    <iframe src="https://www.youtube.com/embed/https://youtube.com/shorts/9k1Z3w8w0Gk" frameborder="0" allowfullscreen></iframe>
-    <iframe src="https://www.youtube.com/embed/your_video_id3" title="Behind the scenes" frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
   <div class="section contact">
     <h2>  Contact</h2>
     <p>Email : fillanyarts@gmail.com / baractivity13@gmail.com</p>
