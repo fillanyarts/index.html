@@ -96,9 +96,25 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
   <div class="contact">
     <h2>  Contact</h2>
     <p>Email : baractivity13@gmail.com / fillanyarts@gmail.com</p>
-    <p>Téléphone : +1 (773) 668-6310</p>
+    <p>Téléphone : +1 (773) 668-6310</p> 
     <p>Site : <a href="http://www.fillanyarts.org">www.fillanyarts.org</a></p>
   </div>
 
 </body>
 </html>collectifs.
+<!-- Bannière -->
+<div style="background-color:#FCE8B2; padding:1em; text-align:center; font-weight:bold;">
+  🌟 Rejoignez l'aventure Fillany Arts ! 🌟
+</div>
+
+<!-- Boutons principaux -->
+<div style="text-align:center; margin:2em 0;">
+  <a href="https://forms.gle/ton-formulaire-inscription" target="_blank" style="padding:1em 2em; background-color:#F9A825; color:white; text-decoration:none; font-weight:bold; border-radius:10px; margin:0 1em;">
+    📋 Inscription
+  </a>
+  
+  <a href="https://www.paypal.me/tonlien" target="_blank" style="padding:1em 2em; background-color:#43A047; color:white; text-decoration:none; font-weight:bold; border-radius:10px; margin:0 1em;">
+    💖 Support Us
+  </a>
+</div>
+
