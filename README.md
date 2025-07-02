@@ -92,8 +92,7 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
     <h2>  Contact</h2>
     <p>Email : fillanyarts@gmail.com / baractivity13@gmail.com</p>
     <p>Téléphone : +1 (773) 668-6310</p>
-    <p>  Site Web : (https://bit.ly/44vaeyP)</p>
-   </style>
+    <p>  Site Web : (https://bit.ly/44vaeyP)
 </head>
 <body>
 
