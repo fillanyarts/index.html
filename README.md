@@ -108,7 +108,6 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
     Join the Fillany Arts adventure! 
 </div>
 
-<!-- Boutons principaux -->
       Inscription At (fillanyarts@gmail.com)
   </a>
 </div>
