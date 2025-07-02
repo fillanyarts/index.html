@@ -123,5 +123,3 @@ Donate or Partnere</p>
 
 <footer> 
   &copy; 2024 Fillany Arts – All rights reserved
-</footer>
-
