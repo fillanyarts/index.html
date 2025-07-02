@@ -119,12 +119,10 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
       Support Us (paypal.us/FillanyArts)
   </a>
 </div>
-
+.
 <footer>
   &copy; 2024 Fillany Arts – All rights reserved
 </footer>
 
 </body>
 </html>
-
-
