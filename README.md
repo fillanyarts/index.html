@@ -72,7 +72,7 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
       <li>Dance & drum workshops / Ateliers de danse et percussions</li>
       <li>Cultural storytelling & performances / Contes et spectacles culturels</li>
       <li>Educational toolkits / Kits pédagogiques</li>
-      <li>Summer & afterschool programs / Programmes d'été et parascolaires</li>
+      <li>Summer camp & afterschool programs / Programmes d'été et parascolaires</li>
       <li>Artistic residencies & festivals / Résidences artistiques et festivals</li>
     </ul>
   </div>
