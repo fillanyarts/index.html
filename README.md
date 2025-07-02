@@ -42,25 +42,33 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
 </head>
 <body>
 
-  <h1>Fillany Arts</h1>
+  <h1>About us</h1>
 
-  <p><strong>Fillany Arts</strong> is a cultural and artistic initiative based in Chicago, offering youth-centered programs rooted in West African traditions.</p>
+  <p><strong>Fillany Arts</strong> a space where youth can flourish through art, reconnect with their bodies and creativity, and discover essential values such as respect for life, cultural transmission, and the strength of the collective Founded by Barakissa Coulibaly
+Member of the International Dance Council at UNESCO Professor and Choreographer of West African Dance.</p>
 
   <h2>  Our Mission</h2>
-  <p>To empower and inspire children and teens through African dance, music, storytelling, and community rituals.</p>
+  <p>To empower and inspire youths and teens through offer regular and accessible Dance & drum workshops
+Cultural storytelling & performances
+Educational toolkits
+Summer and afterschool programs
+Artistic residencies
+Promote education through the arts, respect for oneself and others
+Support social and cultural diversity
+Train young ambassadors of peace and culture.</p>
 
   <h2>  What We Offer</h2>
   <ul>
-    <li>Dance & drum workshops</li>
-    <li>Cultural storytelling & performances</li>
-    <li>Educational toolkits</li>
-    <li>Summer and afterschool programs</li>
-    <li>Artistic residencies & festivals</li>
+    <li>Weekly workshops for children and teenagers</li>
+    <li>Internships and artist residencies during the Summer</li>
+    <li>Meetings with artists  for Masters classes</li>
+    <li>Annual Performances, exhibitions, and public presentations</li>
+    <li>Cultural outings and awareness-raising activities</li>
   </ul>
 
   <h2>  Pilot Program</h2>
-  <p><strong>Start:</strong> August 6, 2026</p>
-  <p><strong>Location:</strong> Cultural center or community space (Chicago, IL)</p>
+  <p><strong>Start:</strong> June 8, 2026</p>
+  <p><strong>Location:</strong> Mayfair Arts Center (Chicago, IL)</p>
   <p><strong>Target group:</strong> Ages 10–20</p>
 
   <div class="contact">
