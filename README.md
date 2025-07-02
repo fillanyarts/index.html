@@ -101,6 +101,24 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
 
 </div>
 
+</body>
+</html>collectifs.
+<!-- Bannière -->
+<div style="background-color:#FCE8B2; padding:1em; text-align:center; font-weight:bold;">
+    Join the Fillany Arts adventure! 
+</div>
+
+<!-- Boutons principaux -->
+<div style="text-align:center; margin:2em 0;">
+  <a href="https://forms.gle/ton-formulaire-inscription" target="_blank" style="padding:1em 2em; background-color:#F9A825; color:white; text-decoration:none; font-weight:bold; border-radius:10px; margin:0 1em;">
+      Inscription At (fillanyarts@gmail.com)
+  </a>
+</div>
+  
+  <a href="https://www.paypal.me/tonlien" target="_blank" style="padding:1em 2em; background-color:#43A047; color:white; text-decoration:none; font-weight:bold; border-radius:10px; margin:0 1em;">
+      Support Us (paypal.us/FillanyArts)
+  </a>
+</div>
 
 <footer>
   &copy; 2024 Fillany Arts – All rights reserved
