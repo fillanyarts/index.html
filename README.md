@@ -61,7 +61,7 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
   <h2>  Pilot Program</h2>
   <p><strong>Start:</strong> August 6, 2026</p>
   <p><strong>Location:</strong> Cultural center or community space (Chicago, IL)</p>
-  <p><strong>Target group:</strong> Ages 7–20</p>
+  <p><strong>Target group:</strong> Ages 10–20</p>
 
   <div class="contact">
     <h2>  Contact</h2>
