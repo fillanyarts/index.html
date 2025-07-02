@@ -139,7 +139,5 @@ Equipment or venue support.
 Donate or Partnere
 </header> 
 
-
 <footer> 
   &copy; 2024 Fillany Arts – All rights reserved
-
