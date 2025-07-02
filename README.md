@@ -121,7 +121,7 @@ Donate or Partnere</p>
 </header>
 
 
-<footer>
+<footer> 
   &copy; 2024 Fillany Arts – All rights reserved
 </footer>
 
