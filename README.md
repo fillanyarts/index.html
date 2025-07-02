@@ -72,39 +72,11 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
 
   <hr>
 
-  <h1>Fillany Arts (FR)</h1>
-
-  <p><strong>Fillany Arts</strong> est une initiative artistique et éducative dédiée aux jeunes, enracinée dans les traditions culturelles d’Afrique de l’Ouest : danse, percussions, contes et rituels collectifs.</p>
-
-  <h2>  Notre mission</h2>
-  <p>Inspirer et accompagner les enfants et adolescents à travers la danse, la musique, les contes et les rituels communautaires africains.</p>
-
-  <h2>  Nos activités</h2>
-  <ul>
-    <li>Ateliers de danse et de percussions</li>
-    <li>Contes et spectacles culturels</li>
-    <li>Ressources pédagogiques</li>
-    <li>Programmes d’été et activités périscolaires</li>
-    <li>Résidences artistiques et festivals</li>
-  </ul>
-
-  <h2>  Programme pilote</h2>
-  <p><strong>Date de lancement :</strong> 6 août 2026</p>
-  <p><strong>Lieu :</strong> Centre culturel ou salle communautaire à Chicago</p>
-  <p><strong>Public :</strong> Jeunes de 10 à 20 ans</p>
-
-  <div class="contact">
-    <h2>  Contact</h2>
-    <p>Email : baractivity13@gmail.com / fillanyarts@gmail.com</p>
-    <p>Téléphone : +1 (773) 668-6310</p> 
-    <p>Site : <a href="http://www.fillanyarts.org">www.fillanyarts.org</a></p>
-  </div>
-
 </body>
 </html>collectifs.
 <!-- Bannière -->
 <div style="background-color:#FCE8B2; padding:1em; text-align:center; font-weight:bold;">
-  🌟 Rejoignez l'aventure Fillany Arts ! 🌟
+    Join the Fillany Arts adventure! 
 </div>
 
 <!-- Boutons principaux -->
