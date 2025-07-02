@@ -46,7 +46,6 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
       color: #666;
       margin-top: 0.3em;
     }
-  </style>
 </head>
 <body>
 
