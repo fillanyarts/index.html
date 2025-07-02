@@ -114,7 +114,7 @@ Fillany Arts is a cultural and educational initiative for youth, centered on Wes
   </a>
   
   <a href="https://www.paypal.me/tonlien" target="_blank" style="padding:1em 2em; background-color:#43A047; color:white; text-decoration:none; font-weight:bold; border-radius:10px; margin:0 1em;">
-    💖 Support Us
+      Support Us
   </a>
 </div>
 
